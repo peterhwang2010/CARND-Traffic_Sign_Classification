@@ -7,11 +7,11 @@
 [image2]: ./examples/Original.png "Original Image"
 [image3]: ./examples/Grayscale.png "Grayscale Image"
 [image4]: ./examples/Gaussian_Gray.png "Gaussian Blur"
-[image5]: ./example_pics/do_not_enter.png "No Entry"
-[image6]: ./example_pics/forty.png "Speed limit (30km/h)"
-[image7]: ./example_pics/left.png "Keep left"
-[image8]: ./example_pics/right.png "Keep right"
-[image9]: ./example_pics/yield.png "General caution"
+[image5]: ./example_pics/do_not_enter.jpg "No Entry"
+[image6]: ./example_pics/forty.jpg "Speed limit (30km/h)"
+[image7]: ./example_pics/left.jpg "Keep left"
+[image8]: ./example_pics/right.jpg "Keep right"
+[image9]: ./example_pics/yield.jpg "General caution"
 
 ### 1. Calculate summary statistic of the traffic sign data set.
 
